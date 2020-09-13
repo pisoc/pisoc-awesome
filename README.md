@@ -27,7 +27,8 @@ In-depth tutorials on a variety of web technologies and programming languages
 ## Computer Architecture
 
 ## Machine Learning & AI
-
+- [Make neural networks uncool again](https://www.fast.ai/):
+A python AI library and tutorials for easy development of Image Recognitions and Natural Language Processing systems
 ## Graphics & Games
 
 ## Security
