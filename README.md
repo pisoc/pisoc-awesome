@@ -5,6 +5,9 @@ A collection of things we think are awesome
 ## Linux
 
 ## Software Dev
+- [GitHub Student Developer Pack](https://education.github.com/pack#offers):
+Github partnered up to offer students free access to some great tools and resources
+
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/): 
 11 lectures from MIT that will give you a head start on your degree
 
@@ -13,6 +16,9 @@ The [PSF's](https://www.python.org/psf/) official Python tutorial - a great plac
 
 - [Git - The Simple Guide](https://rogerdudler.github.io/git-guide/):
 An absolute must-read guide for those unfamiliar with the [Git](https://git-scm.com/) VCS tool
+
+- [Learn Code the Hard Way](https://learncodethehardway.org/#course-list):
+A fantastic series of courses on programming and related topics
 
 ## Web Design
 - [w3schools](https://www.w3schools.com/):
@@ -29,6 +35,8 @@ In-depth tutorials on a variety of web technologies and programming languages
 Vulnerable machines and security challenges you can practise your hacker skills on
 
 ## Miscelaneous
+
+
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
   A convenient reference to everyone's favourite markup syntax
 
