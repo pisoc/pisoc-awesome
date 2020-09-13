@@ -28,12 +28,16 @@ In-depth tutorials on a variety of web technologies and programming languages
 
 ## Machine Learning & AI
 - [Make neural networks uncool again](https://www.fast.ai/):
-A python AI library and tutorials for easy development of Image Recognitions and Natural Language Processing systems
+An AI library for Python and easy tutorials on Image Recognition and Natural Language Processing
+
 ## Graphics & Games
 
 ## Security
 - [Hack The Box](https://www.hackthebox.eu/):
 Vulnerable machines and security challenges you can practise your hacker skills on
+
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/Glossary.html):
+Cheat sheets for securing everything from AJAX to XML - litterally
 
 ## Miscelaneous
 
