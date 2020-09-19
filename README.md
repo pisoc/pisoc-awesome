@@ -20,6 +20,9 @@ An absolute must-read guide for those unfamiliar with the [Git](https://git-scm.
 - [Learn Code the Hard Way](https://learncodethehardway.org/#course-list):
 A fantastic series of courses on programming and related topics
 
+- [Docker Curriculum](https://docker-curriculum.com/):
+ An introductory guide to Docker and containers
+
 ## Web Design
 - [w3schools](https://www.w3schools.com/):
 In-depth tutorials on a variety of web technologies and programming languages
