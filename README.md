@@ -49,8 +49,11 @@ Vulnerable machines and security challenges you can practise your hacker skills 
 Cheat sheets for securing everything from AJAX to XML - litterally
 
 ## Miscelaneous
-
-
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
   A convenient reference to everyone's favourite markup syntax
 
+- [xkcd](https://xkcd.com/):
+Every nerd's favourite webcomic
+
+- [The Codeless Code](http://thecodelesscode.com):
+Fables and koans about software engineering and technology
