@@ -27,6 +27,12 @@ A fantastic series of courses on programming and related topics
 - [w3schools](https://www.w3schools.com/):
 In-depth tutorials on a variety of web technologies and programming languages
 
+- [Hugo](https://gohugo.io/):
+An easy-to-use static site generator
+
+- [GitHub Pages](https://pages.github.com/):
+GitHub provides free hosting for personal web pages and projects
+
 ## Computer Architecture
 
 ## Machine Learning & AI
