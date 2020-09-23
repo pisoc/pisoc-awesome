@@ -47,12 +47,15 @@ Vulnerable machines and security challenges you can practise your hacker skills 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/Glossary.html):
 Cheat sheets for securing everything from AJAX to XML - litterally
 
+- [Crypto 101](https://www.crypto101.io/):
+A free, open-source, and very complete introduction to cryptography
+
 ## Miscelaneous
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet):
-  A convenient reference to everyone's favourite markup syntax
+A convenient reference to everyone's favourite markup syntax
 
 - [xkcd](https://xkcd.com/):
-Every nerd's favourite webcomic
+Any self-respecting nerd's favourite webcomic
 
 - [The Codeless Code](http://thecodelesscode.com):
 Fables and koans about software engineering and technology
