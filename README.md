@@ -4,14 +4,17 @@ A collection of things we think are awesome
 
 ## Linux
 - [Docker Curriculum](https://docker-curriculum.com/):
- An introductory guide to Docker and containers
+An introductory guide to Docker and containers
+
+- [Linux Kernel Labs](https://linux-kernel-labs.github.io/refs/heads/master/labs/introduction.html):
+A series of tutorials exploring various parts of the Linux kernel
 
 ## Software Dev
 - [GitHub Student Developer Pack](https://education.github.com/pack#offers):
 Github partnered up to offer students free access to some great tools and resources
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/): 
-11 lectures from MIT that will give you a head start on your degree
+11 lectures from MIT to kick-start your degree and career
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/):
 The [PSF's](https://www.python.org/psf/) official Python tutorial - a great place to start with the language
