@@ -46,6 +46,16 @@ A Python AI library and some easy tutorials on Image Recognition and Natural Lan
 - [OpenGL Tutorials](http://www.opengl-tutorial.org/):
 Tutorials on basic and intermediate-level graphics programming with OpenGL
 
+- [Unity Tutorials](https://learn.unity.com/tutorials):
+Tutorials for the Unity game engine, from beginner to intermediate.
+
+- [Sebastian Lague (YT)](https://www.youtube.com/c/SebastianLague):
+This youtuber explores different ways of generating Unity objects and environments, i.e., 
+clouds, solar systems, portals, caves, ecosystems and more.
+
+- [Codingame](https://www.codingame.com/):
+Coding challenges in over 20 different programming languages in a game environment.
+
 ## Security
 - [Hack The Box](https://www.hackthebox.eu/):
 Vulnerable machines and security challenges you can practise your hacker skills on
