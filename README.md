@@ -43,6 +43,9 @@ A Python AI library and some easy tutorials on Image Recognition and Natural Lan
 
 ## Graphics & Games
 
+- [OpenGL Tutorials](http://www.opengl-tutorial.org/):
+Tutorials on basic and intermediate-level graphics programming with OpenGL
+
 ## Security
 - [Hack The Box](https://www.hackthebox.eu/):
 Vulnerable machines and security challenges you can practise your hacker skills on
