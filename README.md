@@ -53,7 +53,7 @@ Tutorials for the Unity game engine, from beginner to intermediate
 This youtuber explores ways of generating worlds in Unity - clouds, portals, caves, ecosystems, and more
 
 - [Codingame](https://www.codingame.com/):
-Coding challenges in over 20 different programming languages in the context of game development
+Coding challenges in over 20 different programming languages in the context of a video game
 
 ## Security
 - [Hack The Box](https://www.hackthebox.eu/):
