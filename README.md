@@ -35,8 +35,6 @@ An easy-to-use static site generator
 - [GitHub Pages](https://pages.github.com/):
 GitHub provides free hosting for personal web pages and projects
 
-## Computer Architecture
-
 ## Machine Learning & AI
 - [Fast AI](https://www.fast.ai/):
 A Python AI library and some easy tutorials on Image Recognition and Natural Language Processing
